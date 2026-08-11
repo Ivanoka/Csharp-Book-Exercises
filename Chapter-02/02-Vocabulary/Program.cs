@@ -5,7 +5,7 @@ using System.Reflection;
 System.Data.DataSet ds;
 HttpClient client;
 
-namespace Vocabulary
+namespace _02_Vocabulary
 {
     internal class Program
     {

@@ -1,6 +1,6 @@
 ﻿using static System.Console;
 
-namespace Arguments
+namespace _02_Arguments
 {
     internal class Program
     {

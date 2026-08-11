@@ -1,10 +1,10 @@
 <Solution>
   <Folder Name="/Chapter-02/">
-    <Project Path="Chapter-02/02-Arguments/02-Arguments.csproj" />
-    <Project Path="Chapter-02/02-Exercise03/02-Exercise03.csproj" />
-    <Project Path="Chapter-02/02-Formatting/02-Formatting.csproj" />
-    <Project Path="Chapter-02/02-Numbers/02-Numbers.csproj" />
-    <Project Path="Chapter-02/02-Variables/02-Variables.csproj" />
-    <Project Path="Chapter-02/02-Vocabulary/02-Vocabulary.csproj" />
+    <Project Path="Chapter-02/02-Arguments/02-Arguments.csproj" Id="0d75f40f-ebfc-4c6d-9d52-02d5676f01ee" />
+    <Project Path="Chapter-02/02-Exercise03/02-Exercise03.csproj" Id="cb2ae9ac-e824-4255-b31c-830c8d1b647b" />
+    <Project Path="Chapter-02/02-Formatting/02-Formatting.csproj" Id="1c287d45-2979-41ad-a953-dd2e1228daff" />
+    <Project Path="Chapter-02/02-Numbers/02-Numbers.csproj" Id="1021d0f3-882d-490b-9a92-37f214895db7" />
+    <Project Path="Chapter-02/02-Variables/02-Variables.csproj" Id="a0f10524-e3dc-4a07-9aca-200f0547c957" />
+    <Project Path="Chapter-02/02-Vocabulary/02-Vocabulary.csproj" Id="6f3b712c-f036-4e28-9e1e-9aa3e1c08b99" />
   </Folder>
 </Solution>

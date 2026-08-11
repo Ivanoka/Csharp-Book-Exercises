@@ -1,4 +1,4 @@
-﻿namespace Numbers
+﻿namespace _02_Numbers
 {
     internal class Program
     {

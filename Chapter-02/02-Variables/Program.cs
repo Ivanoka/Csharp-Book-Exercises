@@ -1,4 +1,4 @@
-﻿namespace Variables
+﻿namespace _02_Variables
 {
     internal class Program
     {

@@ -1,6 +1,4 @@
-﻿using System.Reflection;
-
-namespace Exercise03
+﻿namespace _02_Exercise03
 {
     internal class Program
     {

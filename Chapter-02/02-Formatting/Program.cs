@@ -1,6 +1,6 @@
 ﻿using static System.Console;
 
-namespace Formatting
+namespace _02_Formatting
 {
     internal class Program
     {
