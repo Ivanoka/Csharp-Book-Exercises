@@ -7,4 +7,14 @@
     <Project Path="Chapter-02/02-Variables/02-Variables.csproj" Id="a0f10524-e3dc-4a07-9aca-200f0547c957" />
     <Project Path="Chapter-02/02-Vocabulary/02-Vocabulary.csproj" Id="6f3b712c-f036-4e28-9e1e-9aa3e1c08b99" />
   </Folder>
+  <Folder Name="/Chapter-03/">
+    <Project Path="Chapter-03/03-BitwiseAndShiftOperators/03-BitwiseAndShiftOperators.csproj" Id="28888380-bbec-40cd-acd8-0a6b440b44b9" />
+    <Project Path="Chapter-03/03-BooleanOperators/03-BooleanOperators.csproj" Id="873f0d2f-67e7-403f-934a-ad28dee82209" />
+    <Project Path="Chapter-03/03-CastingConverting/03-CastingConverting.csproj" Id="97037f8c-03a4-4e60-a839-15ebde4c0626" />
+    <Project Path="Chapter-03/03-CheckingForOverflow/03-CheckingForOverflow.csproj" Id="fcd3a2cb-b8b4-41ba-b00c-97163825330c" />
+    <Project Path="Chapter-03/03-HandlingExceptions/03-HandlingExceptions.csproj" Id="f9414c04-25fd-463b-9217-96f42811fb2f" />
+    <Project Path="Chapter-03/03-IterationStatements/03-IterationStatements.csproj" Id="040e64c3-4ad6-489b-8181-67d4ec1d7ba9" />
+    <Project Path="Chapter-03/03-Operators/03-Operators.csproj" Id="60723154-6be6-4e53-95c6-8bdca9393fd1" />
+    <Project Path="Chapter-03/03-SelectionStatements/03-SelectionStatements.csproj" Id="a8f03f2f-74e8-406b-97db-53f27c83b4e1" />
+  </Folder>
 </Solution>
