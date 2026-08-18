@@ -17,4 +17,16 @@
     <Project Path="Chapter-03/03-Operators/03-Operators.csproj" Id="60723154-6be6-4e53-95c6-8bdca9393fd1" />
     <Project Path="Chapter-03/03-SelectionStatements/03-SelectionStatements.csproj" Id="a8f03f2f-74e8-406b-97db-53f27c83b4e1" />
   </Folder>
+  <Folder Name="/Chapter-04/">
+    <Project Path="Chapter-04/04-CalculatorLib/04-CalculatorLib.csproj" Id="21e6c950-9b80-4e4c-9516-d163b91fb127" />
+    <Project Path="Chapter-04/04-CalculatorLibUnitTests/04-CalculatorLibUnitTests.csproj" Id="68298a3d-618b-4dea-9a8a-52ac5b153ad2" />
+    <Project Path="Chapter-04/04-CallStackExceptionHandling/04-CallStackExceptionHandling.csproj" Id="47a8bc0c-0708-45e1-a1fd-275976b23a42" />
+    <Project Path="Chapter-04/04-CallStackExceptionHandlingLib/04-CallStackExceptionHandlingLib.csproj" Id="6eb2f264-f4b4-4fdc-aef7-ff89f8148326" />
+    <Project Path="Chapter-04/04-Debugging/04-Debugging.csproj" Id="e12e71dc-6b4b-4a66-b6ff-e3b7e3100fd3" />
+    <Project Path="Chapter-04/04-Instrumenting/04-Instrumenting.csproj" Id="6ce189c6-df0a-47d5-9962-854b85ce4701" />
+    <Project Path="Chapter-04/04-PrimeFactors/04-PrimeFactors.csproj" Id="06ebd99c-5110-47fe-b2c2-e56234e38942" />
+    <Project Path="Chapter-04/04-PrimeFactorsLib/04-PrimeFactorsLib.csproj" Id="5c8480a3-e88d-411d-bcbc-45e5d3b902ad" />
+    <Project Path="Chapter-04/04-PrimeFactorsLibUnitTests/04-PrimeFactorsLibUnitTests.csproj" Id="91384dbc-a2fc-405a-b106-afc3f7c56684" />
+    <Project Path="Chapter-04/04-WritingFunctions/04-WritingFunctions.csproj" Id="32e50984-b5ab-4703-bc45-b47127444578" />
+  </Folder>
 </Solution>
